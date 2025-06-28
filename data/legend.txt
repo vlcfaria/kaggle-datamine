@@ -1,0 +1,45 @@
+Duration (in seconds): Duration (in seconds)
+Q2: What is your age (# years)?
+Q3: What is your gender? - Selected Choice
+Q4: In which country do you currently reside?
+Q5: Are you currently a student? (high school, university, or graduate)
+Q6: On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Coursera
+Q7: What products or platforms did you find to be most helpful when you first started studying data science?  (Select all that apply) - Selected Choice - University courses
+Q8: What is the highest level of formal education that you have attained or plan to attain within the next 2 years?
+Q9: Have you ever published any academic research (papers, preprints, conference proceedings, etc)?
+Q10: Did your research make use of machine learning? - Yes, the research made advances related to some novel machine learning method (theoretical research)
+Q11: For how many years have you been writing code and/or programming?
+Q12: What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Python
+Q13: Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice - JupyterLab 
+Q14: Do you use any of the following hosted notebook products?  (Select all that apply) - Selected Choice -  Kaggle Notebooks
+Q15: Do you use any of the following data visualization libraries on a regular basis?  (Select all that apply) - Selected Choice -  Matplotlib 
+Q16: For how many years have you used machine learning methods?
+Q17: Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -   Scikit-learn 
+Q18: Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Linear or Logistic Regression
+Q19: Which categories of computer vision methods do you use on a regular basis?  (Select all that apply) - Selected Choice - General purpose image/video tools (PIL, cv2, skimage, etc)
+Q20: Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Word embeddings/vectors (GLoVe, fastText, word2vec)
+Q21: Do you download pre-trained model weights from any of the following services? (Select all that apply) - Selected Choice -   TensorFlow Hub 
+Q22: Which of the following ML model hubs/repositories do you use most often? - Selected Choice
+Q23: Select the title most similar to your current role (or most recent title if retired): - Selected Choice
+Q24: In what industry is your current employer/contract (or your most recent employer if retired)? - Selected Choice
+Q25: What is the size of the company where you are employed?
+Q26: Approximately how many individuals are responsible for data science workloads at your place of business?
+Q27: Does your current employer incorporate machine learning methods into their business?
+Q28: Select any activities that make up an important part of your role at work: (Select all that apply) - Analyze and understand data to influence product or business decisions
+Q29: What is your current yearly compensation (approximate $USD)?
+Q30: Approximately how much money have you spent on machine learning and/or cloud computing services at home or at work in the past 5 years (approximate $USD)?
+ (approximate $USD)?
+Q31: Which of the following cloud computing platforms do you use? (Select all that apply) - Selected Choice -  Amazon Web Services (AWS) 
+Q32: Of the cloud platforms that you are familiar with, which has the best developer experience (most enjoyable to use)? - Selected Choice
+Q33: Do you use any of the following cloud computing products? (Select all that apply) - Selected Choice -  Amazon Elastic Compute Cloud (EC2) 
+Q34: Do you use any of the following data storage products? (Select all that apply) - Selected Choice - Microsoft Azure Blob Storage
+Q35: Do you use any of the following data products (relational databases, data warehouses, data lakes, or similar)? (Select all that apply) - Selected Choice - MySQL 
+Q36: Do you use any of the following business intelligence tools? (Select all that apply) - Selected Choice - Amazon QuickSight
+Q37: Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Amazon SageMaker 
+Q38: Do you use any of the following automated machine learning tools?  (Select all that apply) - Selected Choice -  Google Cloud AutoML 
+Q39: Do you use any of the following products to serve your machine learning models?  (Select all that apply) - Selected Choice -  TensorFlow Extended (TFX) 
+Q40: Do you use any tools to help monitor your machine learning models and/or experiments? (Select all that apply) - Selected Choice -  Neptune.ai 
+Q41: Do you use any of the following responsible or ethical AI products in your machine learning practices?  (Select all that apply) - Selected Choice -  Google Responsible AI Toolkit (LIT, What-if, Fairness Indicator, etc) 
+Q42: Do you use any of the following types of specialized hardware when training machine learning models?  (Select all that apply) - Selected Choice -  GPUs 
+Q43: Approximately how many times have you used a TPU (tensor processing unit)?
+Q44: Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Twitter (data science influencers)
