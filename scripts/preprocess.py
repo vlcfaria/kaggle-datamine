@@ -71,6 +71,12 @@ if __name__ == '__main__':
                 
                 #Rename
                 value = labels[c].split('- ')[-1].lstrip()
-                df.rename(columns={c: c.split('_')[0]+ '_' + value}, inplace=True)    
+
+                #Remove 'Other' values
+                if value == 'Other' or value.startswith('None'):
+                    df.drop(columns=[c], inplace=True)
+                else:
+                    df.rename(columns={c: c.split('_')[0]+ '_' + value}, inplace=True)
+                
 
     df.to_csv('processed.csv', index=False)
